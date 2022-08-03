@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Movie Recommendation System
 A movie recommendation system created with the help of movielens dataset of 25 million reviews
 
 ## Data source: [GroupLens | MovieLens](https://grouplens.org/datasets/movielens/25m/)
